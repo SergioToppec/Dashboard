@@ -6,7 +6,7 @@ function Sidebar() {
 
     <div className="h-screen w-64 bg-gray-800 text-white flex flex-col p-4">
       <Link to="/dashboard">
-        <h2 className="text-2xl font-bold mb-6 hover:text-gray-400 cursor-pointer">
+        <h2 className="text-2xl font-bold mb-6 hover:text-gray-300 cursor-pointer">
           Portafolio
         </h2>
       </Link>
