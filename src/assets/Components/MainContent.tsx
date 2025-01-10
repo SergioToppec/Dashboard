@@ -7,7 +7,7 @@ function MainContent() {
         <Card
           title="Práctica 1"
           content="Estado del tiempo"
-          link="EL enlace de tu proyecto" //En los link, ponen el enlace con el puerto que esta ocupando cada proyecto
+          link="" //En los link, ponen el enlace con el puerto que esta ocupando cada proyecto
         />
         <Card title="Práctica 2" content="Mapbox" link="" />
         <Card title="Práctica 3" content="Carrito de compras" link="" />
@@ -16,7 +16,7 @@ function MainContent() {
         <Card
           title="Práctica 6"
           content="Prisma"
-          link="http://localhost:5555/"
+          link=""
         />
       </div>
     </div>
