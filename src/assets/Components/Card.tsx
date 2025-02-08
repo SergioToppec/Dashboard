@@ -6,6 +6,8 @@ interface CardProps {
   link?: string;
 }
 
+
+
 const Card: React.FC<CardProps> = ({ title, content, link }) => {
   return (
     <div className="bg-slate-50 text-black p-12 rounded-lg shadow min-h-52">

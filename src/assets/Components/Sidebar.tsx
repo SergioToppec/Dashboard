@@ -19,7 +19,7 @@ function Sidebar() {
               className="flex items-center space-x-2 hover:bg-gray-700 p-2 rounded"
             >
               <FiBook className="text-xl" />
-              <span>Prácticas</span>
+              <span>Prácticas pene duro</span>
             </Link>
           </li>
           <li>
@@ -28,7 +28,8 @@ function Sidebar() {
               className="flex items-center space-x-2 hover:bg-gray-700 p-2 rounded"
             >
               <FiUser className="text-xl" />
-              <span>Acerca de mí</span>
+              <span>Acerca de mí  pene
+              </span>
             </Link>
           </li>
         </ul>

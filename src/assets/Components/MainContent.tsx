@@ -19,6 +19,7 @@ function MainContent() {
           link=""
         />
       </div>
+      
     </div>
   );
 }
