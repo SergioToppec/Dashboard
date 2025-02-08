@@ -1,6 +1,6 @@
-const Saludo = () => {
-    return <h1>Hola</h1>;
-  };
-  
-  export default Saludo;
-  
+export default function Cayateun(){
+  return(
+  <>
+  <h1>CAYATEUN</h1>
+  </>)
+}
