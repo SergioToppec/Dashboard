@@ -1,6 +1,6 @@
 export default function Cayateun(){
   return(
   <>
-  <h1>CAYATEUN</h1>
+  <h1>LOL</h1>
   </>)
 }
